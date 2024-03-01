@@ -6,7 +6,6 @@ I am a frontend developer who is creative
 
 * 🌍  I'm based in Lagos
 * ✉️  You can contact me at [johnbrolin30@gmail.com](mailto:johnbrolin30@gmail.com)
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Project
   
 
